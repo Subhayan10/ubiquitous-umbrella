@@ -1,8 +1,6 @@
 streamlit
 transformers
 torch
-torchvision
-torchaudio
 scikit-learn
 numpy
 pandas
